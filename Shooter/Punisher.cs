@@ -78,7 +78,7 @@ do
                 case 4:
                     if (count(exitCount)==true)
                     {
-                        Console.WriteLine("Oyundan cixmaq istediyive eminsen?");
+                        Console.WriteLine("Oyundan cixmaq istediyive eminsen?");       //4-e yeniden click olunan sonra oyundan cixir 
                         exitCount++;
                     }
                     else
