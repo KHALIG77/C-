@@ -22,6 +22,7 @@ namespace ConsoleApp15
                 {
                     strBuilder.Append(" ");
                 }
+                 input=strBuilder.ToString();
             }
           
 
