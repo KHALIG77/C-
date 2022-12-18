@@ -126,10 +126,3 @@ static bool Graduated()
     }
     return gradestatus;
 }
-static string Nameconvert(string Ad)
-{
-
-    char[] arr = Ad.ToCharArray();
-    arr[0] = char.ToUpper(arr[0]);
-    return Ad;
-}
